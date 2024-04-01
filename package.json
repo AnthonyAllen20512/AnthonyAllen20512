@@ -1,0 +1,30 @@
+{
+  "name": "teapackagetwo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/AnthonyAllen20512/AnthonyAllen20512.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnthonyAllen20512/AnthonyAllen20512/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "teafirstpackage": "^1.2.6",
+    "teapackage-dehmertula": "^1.0.2",
+    "teapackage-nadezhdaaleksandrov": "^1.0.0",
+    "teapackage-plus": "^1.0.7",
+    "teapackage-shortsleevedemetria": "^1.0.0",
+    "teapackage-walquistanneleen": "^1.0.0",
+    "teapackagetwo": "^1.0.0",
+    "teapackge-chinasoon": "^1.0.0",
+    "teapackge-ops": "^1.0.0"
+  }
+}
